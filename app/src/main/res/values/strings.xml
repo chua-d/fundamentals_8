@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Notify Me!</string>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="schedule_button">Schedule Job</string>
+    <string name="cancel_button">Cancel Jobs</string>
 </resources>
